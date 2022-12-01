@@ -1,5 +1,6 @@
 # Tic-Tac-Toe AI
 
+One of the most common game played by most kids is Tic-Tac-Toe and we have developed the game in c++ language for our DAA mini project.
 A tic-tac-toe AI program that never loses. This program uses the minimax algorithm with alpha-beta pruning to reduce the search space.
 
 https://en.wikipedia.org/wiki/Minimax#Minimax_algorithm_with_alternate_moves
